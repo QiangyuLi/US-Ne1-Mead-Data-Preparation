@@ -1,0 +1,21 @@
+Year,Crop,Cultivar,GDD to Phys. Maturity,Plant Population (plnts/ha),Planting Date,Emergence Date,Harvest Date,Yield (Mg ha-1),Location
+2001,M,Pioneer 33P67,2760,81500,May 10,May 16,October 18,13.51,Site 1
+2002,M,Pioneer 33P67,2760,71300,May 9,May 18,November 4,12.97,Site 1
+2003,M,Pioneer 33B51,2680,77000,May 15,May 27,October 27,12.12,Site 1
+2004,M,Pioneer 33B51,2680,79800,May 3,May 13,October 15,12.24,Site 1
+2005,M,Dekalb 63-75 CRW,2790,69200,May 4,May 17,October 13,12.02,Site 1
+2006,M,Pioneer 33B53,2700,80600,May 5,May 16,October 5,10.46,Site 1
+2007,M,Pioneer 33N12,2800,75300,May 1,May 10,November 5,12.80,Site 1
+2008,M,Pioneer 31N30,2930,76500,April 29,May 9,November 18,11.99,Site 1
+2009,M,Pioneer 32N73,2780,78500,April 20,May 5,November 9,13.35,Site 1
+2010,M,DeKalb 65-63 VT3,2810,78700,April 19,May 4,September 21,2.03,Site 1
+2011,M,Pioneer 32T88,2700,80200,May 18,May 26,October 26,11.97,Site 1
+2012,M,DeKalb 62-97,2800,77200,April 24,May 2,October 10,13.02,Site 1
+2013,M,Dekalb 61-16RIB,2750,80400,April 29,May 14,October 22,13.05,Site 1
+2014,M,Dekalb 65-79,2875,79400,April 21,May 7,October 28,11.15,Site 1
+2015,M,Pioneer P1311AMX,2860,76600,April 30,May 12,October 26,11.87,Site 1
+2016,M,Pioneer P1197AMT,,76900,May 19,May 27,September 22,12.69,Site 1
+2017,M,Pioneer 1197AMT,,86300,April 27,May 8,October 25,14.11,Site 1
+2018,M,Dekalb 64-34,,91100,May 8,May 17,October 31,8.48,Site 1
+2019,M,Pioneer P1366AMT,,79600,April 19,May 5,November 4,15.24,Site 1
+2020,M,Pioneer P1366Q,,77600,April 20,May 1,September 17,14.04,Site 1
