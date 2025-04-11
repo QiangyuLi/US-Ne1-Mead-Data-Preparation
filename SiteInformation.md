@@ -32,6 +32,14 @@
 | US-Ne2  | 30.35    | 11.84    | 0.41 | 0.26 | 10.16      | 1.06       |
 | US-Ne3  | 34.96    | 8.32     | 0.39 | 0.23 | 10.54      | 1.02       |
 
+**Column Descriptions**:  
+- **Clay**: Soil clay content (%).  
+- **Sand**: Soil sand content (%).  
+- **SC**: Field saturation moisture capacity (m³ m⁻³).  
+- **WP**: Wilting point (m³ m⁻³).  
+- **Soil C**: Soil carbon content (g/Kg).  
+- **Soil N**: Soil nitrogen content (g/Kg).  
+
 **Notes**:  
 - SC: Saturated Conductivity  
 - WP: Wilting Point  
