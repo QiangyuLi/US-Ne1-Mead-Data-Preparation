@@ -17,6 +17,13 @@
    | 2015-10-26     | 189.0           | 11.87         | 15.5% basis                      |
    | 2020-09-15/17  | 218.62          | 13.73         | Dry bushels                      |
 
+   ### Crop Management Details (2001–2003)
+   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
+   |------|---------------------|------------------------------|---------------|--------------|----------------------|---------------------|
+   | 2001 | M/Pioneer 33P67     | 82,000                      | May 10        | October 18   | 196                  | 13.51               |
+   | 2002 | M/Pioneer 33P67     | 81,000                      | May 9         | November 4   | 214                  | 12.97               |
+   | 2003 | M/Pioneer 33B51     | 77,000                      | May 15        | October 27   | 233                  | 12.12               |
+
 2. **Irrigated maize-soybean rotation**  
    Coordinates: 41°09′53.5′′N, 96°28′12.3′′W  
    Elevation: 362 m  
@@ -29,11 +36,13 @@
    | 2001 | M/Pioneer 33P67     | 80,900                      | May 11        | May 18         | October 22   | 13.41         |
    | 2002 | S/Asgrow 2703       | 333,100                     | May 20        | May 28         | October 7    | 3.99          |
    | 2003 | M/Pioneer 33B51     | 78,000                      | May 14        | May 25         | October 23   | 14.00         |
-   | 2004 | S/Pioneer 93B09     | 296,100                     | June 2        | June 8         | October 18   | 3.71          |
-   | 2005 | M/Pioneer 33B51     | 81,000                      | May 2         | May 14         | October 17   | 13.24         |
-   | 2006 | S/Pioneer 93M11     | 318,800                     | May 12        | May 23         | October 5    | 4.36          |
-   | 2007 | M/Pioneer 31N28     | 77,600                      | May 2         | May 11         | November 5   | 13.21         |
-   | 2008 | S/Pioneer 93M11     | 318,000                     | May 15        | May 25         | October 9    | 4.22          |
+
+   ### Crop Management Details (2001–2003)
+   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
+   |------|---------------------|------------------------------|---------------|--------------|----------------------|---------------------|
+   | 2001 | M/Pioneer 33P67     | 81,000                      | May 11        | October 22   | 196                  | 13.41               |
+   | 2002 | S/Asgrow 2703       | 153,000                     | May 20        | October 7    | 0                    | 3.99                |
+   | 2003 | M/Pioneer 33B51     | 78,000                      | May 14        | October 23   | 169                  | 14.00               |
 
 3. **Rainfed maize-soybean rotation**  
    Coordinates: 41°10′46.8′′N, 96°26′22.7′′W  
@@ -47,11 +56,13 @@
    | 2001 | M/Pioneer 33B51     | 52,600                      | May 14        | May 21         | October 29   | 8.72          |
    | 2002 | S/Asgrow 2703       | 304,500                     | May 20        | May 28         | October 9    | 3.32          |
    | 2003 | M/Pioneer 33B51     | 57,600                      | May 13        | May 22         | October 13   | 7.72          |
-   | 2004 | S/Pioneer 93B09     | 264,700                     | June 2        | June 8         | October 11   | 3.41          |
-   | 2005 | M/Pioneer 31G68     | 56,300                      | April 26      | May 11         | October 17   | 9.10          |
-   | 2006 | S/Pioneer 93M11     | 288,200                     | May 11        | May 22         | October 8    | 4.31          |
-   | 2007 | M/Pioneer 33H26     | 55,800                      | May 2         | May 13         | October 31   | 10.23         |
-   | 2008 | S/Pioneer 93M11     | 313,000                     | May 14        | May 25         | October 8    | 3.97          |
+
+   ### Crop Management Details (2001–2003)
+   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
+   |------|---------------------|------------------------------|---------------|--------------|----------------------|---------------------|
+   | 2001 | M/Pioneer 33B51     | 53,000                      | May 14        | October 29   | 128                  | 8.72                |
+   | 2002 | S/Asgrow 2703       | 156,000                     | May 20        | October 9    | 0                    | 3.32                |
+   | 2003 | M/Pioneer 33B51     | 58,000                      | May 13        | October 13   | 90                   | 7.72                |
 
 ## Soil Characteristics
 | Site    | Clay (%) | Sand (%) | SC | WP | Soil C (%) | Soil N (%) |
@@ -73,4 +84,4 @@
 - WP: Wilting Point  
 
 ## Citation
-This dataset is cited from [Zenodo](https://doi.org/10.5281/zenodo.13343700), [Agricultural and Forest Meteorology (2015)](https://doi.org/10.1016/j.agrformet.2015.03.016), and [Agricultural and Forest Meteorology (2012)](https://doi.org/10.1016/j.agrformet.2012.05.021).
+This dataset is cited from [Zenodo](https://doi.org/10.5281/zenodo.13343700), [Agricultural and Forest Meteorology (2015)](https://doi.org/10.1016/j.agrformet.2015.03.016), [Agricultural and Forest Meteorology (2012)](https://doi.org/10.1016/j.agrformet.2012.05.021), and [Agricultural and Forest Meteorology (2005)](https://doi.org/10.1016/j.agrformet.2005.05.003).
