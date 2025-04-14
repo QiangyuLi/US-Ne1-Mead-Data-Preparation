@@ -36,35 +36,26 @@
 2. **Irrigated maize-soybean rotation**  
    Coordinates: 41°09′53.5′′N, 96°28′12.3′′W  
    Elevation: 362 m  
-   - **Description**: This site is equipped with center pivot irrigation and has been in a maize–soybean rotation since 2001. Prior to the study, it had a 10-year history of no-till maize–soybean rotation. The soil consists of 50% Tomek, 27% Filbert/Filmore, and 23% Yutan series. Volumetric soil moisture at field capacity is 0.41 m³ m⁻³.  
-   - **Crop Management**: Nitrogen (N) was applied as urea ammonium nitrate solution, with 180 kg N/ha applied in three applications (2/3 pre-plant and 1/3 through fertigation).  
 
-   ### Yield Data
-   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Yield (Mg/ha) |
-   |------|---------------------|------------------------------|---------------|----------------|--------------|---------------|
-   | 2001 | M/Pioneer 33P67     | 80,900                      | May 11        | May 18         | October 22   | 13.41         |
-   | 2002 | S/Asgrow 2703       | 333,100                     | May 20        | May 28         | October 7    | 3.99          |
-   | 2003 | M/Pioneer 33B51     | 78,000                      | May 14        | May 25         | October 23   | 14.00         |
-
-   ### Crop Management Details (2001–2003)
-   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
-   |------|---------------------|------------------------------|---------------|--------------|----------------------|---------------------|
-   | 2001 | M/Pioneer 33P67     | 81,000                      | May 11        | October 22   | 196                  | 13.41               |
-   | 2002 | S/Asgrow 2703       | 153,000                     | May 20        | October 7    | 0                    | 3.99                |
-   | 2003 | M/Pioneer 33B51     | 78,000                      | May 14        | October 23   | 169                  | 14.00               |
+   ### Crop Management Details (2001–2012)
+   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Grain Yield (Mg/ha) |
+   |------|---------------------|------------------------------|---------------|----------------|--------------|---------------------|
+   | 2001 | M/Pioneer 33P67     | 82,400                      | May 11        | May 18         | October 22   | 13.41               |
+   | 2002 | S/Asgrow 2703       | 333,100                     | May 20        | May 28         | October 7    | 3.99                |
+   | 2003 | M/Pioneer 33B51     | 78,000                      | May 14        | May 25         | October 23   | 14.00               |
+   | 2010 | M/DeKalb 65-63 VT3  | 70,000                      | April 19      | May 4          | September 21 | 4.68*               |
 
 3. **Rainfed maize-soybean rotation**  
    Coordinates: 41°10′46.8′′N, 96°26′22.7′′W  
    Elevation: 362 m  
-   - **Description**: This site relies on rainfall and has been in a maize–soybean rotation since 2001. Prior to the study, it had a variable cropping history of wheat, soybean, oats, and maize grown in small plots with tillage. The soil consists of 70% Tomek, 20% Filbert/Filmore, and 10% Yutan series. Volumetric soil moisture at field capacity is 0.39 m³ m⁻³.  
-   - **Crop Management**: Nitrogen (N) was applied as a single pre-plant application of 120 kg N/ha.  
 
-   ### Yield Data
-   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Yield (Mg/ha) |
-   |------|---------------------|------------------------------|---------------|----------------|--------------|---------------|
-   | 2001 | M/Pioneer 33B51     | 52,600                      | May 14        | May 21         | October 29   | 8.72          |
-   | 2002 | S/Asgrow 2703       | 304,500                     | May 20        | May 28         | October 9    | 3.32          |
-   | 2003 | M/Pioneer 33B51     | 57,600                      | May 13        | May 22         | October 13   | 7.72          |
+   ### Crop Management Details (2001–2012)
+   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Grain Yield (Mg/ha) |
+   |------|---------------------|------------------------------|---------------|----------------|--------------|---------------------|
+   | 2001 | M/Pioneer 33B51     | 52,300                      | May 14        | May 21         | October 29   | 8.72                |
+   | 2002 | S/Asgrow 2703       | 304,500                     | May 20        | May 28         | October 9    | 3.32                |
+   | 2003 | M/Pioneer 33B51     | 57,600                      | May 13        | May 22         | October 13   | 7.72                |
+   | 2010 | S/Pioneer 93M11     | 251,200                     | May 19        | May 27         | October 6    | 4.14                |
 
 ## Soil Characteristics
 | Site    | Clay (%) | Sand (%) | SC | WP | Soil C (%) | Soil N (%) |
