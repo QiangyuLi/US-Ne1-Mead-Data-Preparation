@@ -17,12 +17,21 @@
    | 2015-10-26     | 189.0           | 11.87         | 15.5% basis                      |
    | 2020-09-15/17  | 218.62          | 13.73         | Dry bushels                      |
 
-   ### Crop Management Details (2001–2003)
-   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
-   |------|---------------------|------------------------------|---------------|--------------|----------------------|---------------------|
-   | 2001 | M/Pioneer 33P67     | 82,000                      | May 10        | October 18   | 196                  | 13.51               |
-   | 2002 | M/Pioneer 33P67     | 81,000                      | May 9         | November 4   | 214                  | 12.97               |
-   | 2003 | M/Pioneer 33B51     | 77,000                      | May 15        | October 27   | 233                  | 12.12               |
+   ### Crop Management Details (2001–2012)
+   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
+   |------|---------------------|------------------------------|---------------|----------------|--------------|----------------------|---------------------|
+   | 2001 | M/Pioneer 33P67     | 81,500                      | May 10        | May 16         | October 18   | 196                  | 13.51               |
+   | 2002 | M/Pioneer 33P67     | 71,300                      | May 9         | May 18         | November 4   | 214                  | 12.97               |
+   | 2003 | M/Pioneer 33B51     | 77,000                      | May 15        | May 27         | October 27   | 233                  | 12.12               |
+   | 2004 | M/Pioneer 33B51     | 79,800                      | May 3         | May 13         | October 15   | Not specified        | 12.24               |
+   | 2005 | M/DeKalb 63-75      | 69,200                      | May 4         | May 17         | October 13   | Not specified        | 12.02               |
+   | 2006 | M/Pioneer 33B53     | 80,600                      | May 5         | May 16         | October 5    | Not specified        | 10.46               |
+   | 2007 | M/Pioneer 31N30     | 75,300                      | May 1         | May 10         | November 5   | Not specified        | 12.80               |
+   | 2008 | M/Pioneer 31N30     | 76,500                      | April 29      | May 9          | November 18  | Not specified        | 11.99               |
+   | 2009 | M/Pioneer 32N73     | 78,500                      | April 20      | May 5          | November 9   | Not specified        | 13.35               |
+   | 2010 | M/DeKalb 65-63 VT3  | 78,700                      | April 19      | May 4          | September 21 | Not specified        | 2.03*               |
+   | 2011 | M/Pioneer 32T88     | 80,200                      | May 18        | May 26         | October 26   | Not specified        | 11.97               |
+   | 2012 | M/DeKalb 62-97 VT3  | 77,200                      | April 24      | May 2          | October 10   | Not specified        | 13.02               |
 
 2. **Irrigated maize-soybean rotation**  
    Coordinates: 41°09′53.5′′N, 96°28′12.3′′W  
@@ -56,13 +65,6 @@
    | 2001 | M/Pioneer 33B51     | 52,600                      | May 14        | May 21         | October 29   | 8.72          |
    | 2002 | S/Asgrow 2703       | 304,500                     | May 20        | May 28         | October 9    | 3.32          |
    | 2003 | M/Pioneer 33B51     | 57,600                      | May 13        | May 22         | October 13   | 7.72          |
-
-   ### Crop Management Details (2001–2003)
-   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
-   |------|---------------------|------------------------------|---------------|--------------|----------------------|---------------------|
-   | 2001 | M/Pioneer 33B51     | 53,000                      | May 14        | October 29   | 128                  | 8.72                |
-   | 2002 | S/Asgrow 2703       | 156,000                     | May 20        | October 9    | 0                    | 3.32                |
-   | 2003 | M/Pioneer 33B51     | 58,000                      | May 13        | October 13   | 90                   | 7.72                |
 
 ## Soil Characteristics
 | Site    | Clay (%) | Sand (%) | SC | WP | Soil C (%) | Soil N (%) |
