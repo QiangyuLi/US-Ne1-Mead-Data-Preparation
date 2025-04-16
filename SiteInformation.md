@@ -13,8 +13,9 @@
    | 2018-10-31     | 135.0           | 8.48          | 15.5% basis                      |
    | 2019-11-04     | 241.0           | 15.24         | 15.5% basis                      |
    | 2020-09-17     | 222.0           | 14.04         | Dry bushels                      |
+   | 2021-10-19     | 226.7           | 14.20         | Dry bushels                      |
 
-   ### Crop Management Details (2001–2020)
+   ### Crop Management Details (2001–2021)
    | Year | Crop/Cultivar/GDD to Phys. Maturity | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Grain Yield (Mg/ha) |
    |------|-------------------------------------|------------------------------|---------------|----------------|--------------|---------------------|
    | 2001 | M/Pioneer 33P67/2760               | 81,500                      | May 10        | May 16         | October 18   | 13.51               |
@@ -37,6 +38,29 @@
    | 2018 | M/Dekalb 64-34                     | 91,100                      | May 8         | May 17         | October 31   | 8.48                |
    | 2019 | M/Pioneer P1366AMT                 | 79,600                      | April 19      | May 5          | November 4   | 15.24               |
    | 2020 | M/Pioneer P1366Q                   | 77,600                      | April 20      | May 1          | September 17 | 14.04               |
+   | 2020 | M/Pioneer P1366Q                   | 81,500                      | April 20      | May 1          | September 17 | 14.04               |
+   | 2021 | M/Dekalb 63-90                     | 81,500                      | April 27      | May 8          | October 19   | 14.20               |
+
+   ### Field Operations
+   - **2020 Planting**:  
+     JD8345R and JD1795 Planter, corn hybrid: P1366Q, 33,000 seeds/acre, 121.9 acres, Total fuel: 64.0 gal.  
+     - Start: April 20, 2020, 9:00 AM  
+     - End: April 20, 2020, 5:00 PM  
+
+   - **2021 Planting**:  
+     JD 8410RX Tractor and JD 1795 Planter, corn hybrid: Dekalb 63-90, 33,000 seeds/acre, 122.1 acres, Total fuel: 56 gal.  
+     - Start: April 27, 2021, 8:30 AM  
+     - End: April 27, 2021, 4:35 PM  
+
+   - **2020 Harvest**:  
+     High Moisture Corn Harvest: 57.4 acres, FIELD TOTAL: 26,837.9 dry bushels, JD7250R and Brent 678 Grain Cart (Green), 30.1 gal fuel.  
+     - Start: September 16, 2020, 9:30 AM  
+     - End: September 17, 2020, 4:00 PM  
+
+   - **2021 Harvest**:  
+     YIELD: 226.7 bu/acre, Harvest of IMZs and Towers, JD S650-11 Combine, 10.94 acres, 16.0 gal fuel.  
+     - Start: October 19, 2021, 10:00 AM  
+     - End: October 19, 2021, 12:40 PM
 
 2. **Irrigated maize-soybean rotation**  
    Coordinates: 41°09′53.5′′N, 96°28′12.3′′W  
