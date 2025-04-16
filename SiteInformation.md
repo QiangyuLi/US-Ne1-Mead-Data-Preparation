@@ -9,29 +9,34 @@
    | Date           | Yield (bu/acre) | Yield (Mg/ha) | Moisture Content                  |
    |----------------|-----------------|---------------|-----------------------------------|
    | 2016-09-22     | 202.1           | 12.69         | 15.5% basis (32.1% at harvest)   |
-   | 2017-10-25     | 225.0           | 14.13         | 15.5% basis                      |
-   | 2017-10-26     | 225.0           | 14.13         | 15.5% basis                      |
-   | 2021-10-19     | 226.7           | 14.24         | Not specified                    |
+   | 2017-10-25     | 225.0           | 14.11         | 15.5% basis                      |
    | 2018-10-31     | 135.0           | 8.48          | 15.5% basis                      |
-   | 2014-10-29     | 177.5           | 11.15         | 15.5% basis                      |
-   | 2015-10-26     | 189.0           | 11.87         | 15.5% basis                      |
-   | 2020-09-15/17  | 218.62          | 13.73         | Dry bushels                      |
+   | 2019-11-04     | 241.0           | 15.24         | 15.5% basis                      |
+   | 2020-09-17     | 222.0           | 14.04         | Dry bushels                      |
 
-   ### Crop Management Details (2001–2012)
-   | Year | Crop/Cultivar       | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Applied N (kg N/ha) | Grain Yield (Mg/ha) |
-   |------|---------------------|------------------------------|---------------|----------------|--------------|----------------------|---------------------|
-   | 2001 | M/Pioneer 33P67     | 81,500                      | May 10        | May 16         | October 18   | 196                  | 13.51               |
-   | 2002 | M/Pioneer 33P67     | 71,300                      | May 9         | May 18         | November 4   | 214                  | 12.97               |
-   | 2003 | M/Pioneer 33B51     | 77,000                      | May 15        | May 27         | October 27   | 233                  | 12.12               |
-   | 2004 | M/Pioneer 33B51     | 79,800                      | May 3         | May 13         | October 15   | Not specified        | 12.24               |
-   | 2005 | M/DeKalb 63-75      | 69,200                      | May 4         | May 17         | October 13   | Not specified        | 12.02               |
-   | 2006 | M/Pioneer 33B53     | 80,600                      | May 5         | May 16         | October 5    | Not specified        | 10.46               |
-   | 2007 | M/Pioneer 31N30     | 75,300                      | May 1         | May 10         | November 5   | Not specified        | 12.80               |
-   | 2008 | M/Pioneer 31N30     | 76,500                      | April 29      | May 9          | November 18  | Not specified        | 11.99               |
-   | 2009 | M/Pioneer 32N73     | 78,500                      | April 20      | May 5          | November 9   | Not specified        | 13.35               |
-   | 2010 | M/DeKalb 65-63 VT3  | 78,700                      | April 19      | May 4          | September 21 | Not specified        | 2.03*               |
-   | 2011 | M/Pioneer 32T88     | 80,200                      | May 18        | May 26         | October 26   | Not specified        | 11.97               |
-   | 2012 | M/DeKalb 62-97 VT3  | 77,200                      | April 24      | May 2          | October 10   | Not specified        | 13.02               |
+   ### Crop Management Details (2001–2020)
+   | Year | Crop/Cultivar/GDD to Phys. Maturity | Plant Population (plants/ha) | Planting Date | Emergence Date | Harvest Date | Grain Yield (Mg/ha) |
+   |------|-------------------------------------|------------------------------|---------------|----------------|--------------|---------------------|
+   | 2001 | M/Pioneer 33P67/2760               | 81,500                      | May 10        | May 16         | October 18   | 13.51               |
+   | 2002 | M/Pioneer 33P67/2760               | 71,300                      | May 9         | May 18         | November 4   | 12.97               |
+   | 2003 | M/Pioneer 33B51/2680               | 77,000                      | May 15        | May 27         | October 27   | 12.12               |
+   | 2004 | M/Pioneer 33B51/2680               | 79,800                      | May 3         | May 13         | October 15   | 12.24               |
+   | 2005 | M/Dekalb 63-75 CRW/2790            | 69,200                      | May 4         | May 17         | October 13   | 12.02               |
+   | 2006 | M/Pioneer 33B53/2700               | 80,600                      | May 5         | May 16         | October 5    | 10.46               |
+   | 2007 | M/Pioneer 33N12/2800               | 75,300                      | May 1         | May 10         | November 5   | 12.80               |
+   | 2008 | M/Pioneer 31N30/2930               | 76,500                      | April 29      | May 9          | November 18  | 11.99               |
+   | 2009 | M/Pioneer 32N73/2780               | 78,500                      | April 20      | May 5          | November 9   | 13.35               |
+   | 2010 | M/DeKalb 65-63 VT3/2810            | 78,700                      | April 19      | May 4          | September 21 | 2.03                |
+   | 2011 | M/Pioneer 32T88/2700               | 80,200                      | May 18        | May 26         | October 26   | 11.97               |
+   | 2012 | M/DeKalb 62-97/2800                | 77,200                      | April 24      | May 2          | October 10   | 13.02               |
+   | 2013 | M/Dekalb 61-16RIB/2750             | 80,400                      | April 29      | May 14         | October 22   | 13.05               |
+   | 2014 | M/Dekalb 65-79/2875                | 79,400                      | April 21      | May 7          | October 28   | 11.15               |
+   | 2015 | M/Pioneer P1311AMX/2860            | 76,600                      | April 30      | May 12         | October 26   | 11.87               |
+   | 2016 | M/Pioneer P1197AMT                 | 76,900                      | May 19        | May 27         | September 22 | 12.69               |
+   | 2017 | M/Pioneer 1197AMT                  | 86,300                      | April 27      | May 8          | October 25   | 14.11               |
+   | 2018 | M/Dekalb 64-34                     | 91,100                      | May 8         | May 17         | October 31   | 8.48                |
+   | 2019 | M/Pioneer P1366AMT                 | 79,600                      | April 19      | May 5          | November 4   | 15.24               |
+   | 2020 | M/Pioneer P1366Q                   | 77,600                      | April 20      | May 1          | September 17 | 14.04               |
 
 2. **Irrigated maize-soybean rotation**  
    Coordinates: 41°09′53.5′′N, 96°28′12.3′′W  
