@@ -93,6 +93,30 @@
 | US-Ne2  | 30.35    | 11.84    | 0.41 | 0.26 | 10.16      | 1.06       |
 | US-Ne3  | 34.96    | 8.32     | 0.39 | 0.23 | 10.54      | 1.02       |
 
+### Table 2a. Irrigation records for US-Ne1 during 2014–2020  
+*Irrigation records are unavailable at US-Ne1 in 2019.*
+
+| Year | Crop Type | Sowing Date | Irrigation Event 1 | Irrigation Event 2 | Irrigation Event 3 | Irrigation Event 4 | Irrigation Event 5 | Irrigation Event 6 | Irrigation Event 7 | Irrigation Event 8 | Irrigation Event 9 | Irrigation Event 10 | Irrigation Number | Precipitation (mm) |
+|------|-----------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|---------------------|-------------------|--------------------|
+| 2014 | maize     | 4.21–4.22   | 6.10–6.14          | 7.02–7.03          | 7.08–7.12          | 7.14–7.18          | 7.19–7.23          | 7.25–7.29          | 7.30–7.31          | 8.03–8.06          | 8.18–8.22          |                    | 9                 | 57                 |
+| 2015 | maize     | 4.29–4.30   | 5.12               | 5.18               | 7.01–7.04          | 7.13–7.14          | 7.17–7.20          | 7.24–7.26          | 8.03–8.07          | 8.14–8.15          |                    |                    | 8                 | 73                 |
+| 2016 | maize     | 5.19, 6.08  | 7.01–7.02          | 7.09–7.11          | 7.20–7.25          | 7.28–8.03          | 8.09               |                    |                    |                    |                    |                    | 5                 | 65                 |
+| 2017 | maize     | 4.27        | 6.30–7.02          | 7.06–7.10          | 7.14–7.16          | 7.18–7.23          | 7.31–8.05          | 8.08–8.11          |                    |                    |                    |                    | 6                 | 57                 |
+| 2018 | maize     | 5.08        | 5.10–5.11          | 6.18–6.19          | 7.16–7.17          | 8.01–8.08          | 8.08–8.14          |                    |                    |                    |                    |                    | 5                 | 70                 |
+| 2020 | maize     | 4.20        | 6.23–6.24          | 6.29–7.01          | 7.06–7.10          | 7.14–7.18          | 7.22–7.25          | 7.27–7.29          | 8.02–8.06          | 8.11–8.15          | 8.24–8.28          | 8.31–9.02          | 10                | 61                 |
+
+### Table 2b. Irrigation records for US-Ne2 during 2014–2020
+
+| Year | Crop Type | Sowing Date | Irrigation Event 1 | Irrigation Event 2 | Irrigation Event 3 | Irrigation Event 4 | Irrigation Event 5 | Irrigation Event 6 | Irrigation Event 7 | Irrigation Event 8 | Irrigation Event 9 | Irrigation Event 10 | Irrigation Number | Precipitation (mm) |
+|------|-----------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|---------------------|-------------------|--------------------|
+| 2014 | soybean   | 5.20        | 7.22–7.26          | 7.29–8.03          | 8.04–8.09          | 8.09–8.13          | 8.14–8.18          | 8.18–8.19          |                    |                    |                    |                    | 7                 | 57                 |
+| 2015 | maize     | 4.29        | 7.13–7.14          | 7.17–7.22          | 7.24–7.26          | 8.03–8.07          | 8.14–8.16          |                    |                    |                    |                    |                    | 5                 | 73                 |
+| 2016 | soybean   | 5.18, 6.09  | 7.29–7.31          | 8.05–8.06          | 8.08–8.14          | 8.23               |                    |                    |                    |                    |                    |                    | 4                 | 65                 |
+| 2017 | maize     | 5.07        | 7.03–7.04          | 7.11–7.16          | 7.19–7.24          | 7.31–8.05          | 8.08–8.13          |                    |                    |                    |                    |                    | 5                 | 57                 |
+| 2018 | soybean   | 5.10        | 7.19–7.24          | 8.04–8.09          | 8.10–8.15          |                    |                    |                    |                    |                    |                    |                    | 3                 | 70                 |
+| 2019 | maize     | 4.23        | 7.02–7.03          | 7.08–7.13          | 7.15–7.20          | 7.29–8.02          | 8.09–8.11          | 8.14–8.15          | 8.16–8.18          |                    |                    |                    | 7                 | 77                 |
+| 2020 | soybean   | 5.05        | 7.13–7.17          | 7.18–7.22          | 7.25–7.29          | 8.03–8.07          | 8.13–8.16          | 8.19–8.22          | 9.02–9.05          |                    |                    |                    | 7                 | 61                 |
+
 **Column Descriptions**:  
 - **Clay**: Soil clay content (%).  
 - **Sand**: Soil sand content (%).  
@@ -106,4 +130,4 @@
 - WP: Wilting Point  
 
 ## Citation
-This dataset is cited from [Zenodo](https://doi.org/10.5281/zenodo.13343700), [Agricultural and Forest Meteorology (2015)](https://doi.org/10.1016/j.agrformet.2015.03.016), [Agricultural and Forest Meteorology (2012)](https://doi.org/10.1016/j.agrformet.2012.05.021), and [Agricultural and Forest Meteorology (2005)](https://doi.org/10.1016/j.agrformet.2005.05.003).
+This dataset is cited from [Zenodo](https://doi.org/10.5281/zenodo.13343700), [Agricultural and Forest Meteorology (2015)](https://doi.org/10.1016/j.agrformet.2015.03.016), [Agricultural and Forest Meteorology (2012)](https://doi.org/10.1016/j.agrformet.2012.05.021), [Agricultural and Forest Meteorology (2005)](https://doi.org/10.1016/j.agrformet.2005.05.003), and [Agricultural Water Management (2024)](https://doi.org/10.1016/j.agwat.2024.108999).
