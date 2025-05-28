@@ -129,5 +129,35 @@
 - SC: Saturated Conductivity  
 - WP: Wilting Point  
 
+## Soil Water Content (SWC) Measurement Heights – US-Ne1
+
+Soil water content (SWC, volumetric %, range 0–100%) is measured at the following depths below ground surface at US-Ne1:
+
+| Variable Name         | Depth (m) | Description                                                                 |
+|-----------------------|-----------|-----------------------------------------------------------------------------|
+| SWC_1_1_1             | -0.10     | SWC at 0.10 m depth, station 1                                              |
+| SWC_1_2_1             | -0.25     | SWC at 0.25 m depth, station 1                                              |
+| SWC_1_3_1             | -0.50     | SWC at 0.50 m depth, station 1                                              |
+| SWC_1_4_1             | -1.00     | SWC at 1.00 m depth, station 1                                              |
+| SWC_2_1_1             | -0.10     | SWC at 0.10 m depth, station 2                                              |
+| SWC_2_2_1             | -0.25     | SWC at 0.25 m depth, station 2                                              |
+| SWC_2_3_1             | -0.50     | SWC at 0.50 m depth, station 2                                              |
+| SWC_2_4_1             | -1.00     | SWC at 1.00 m depth, station 2                                              |
+| SWC_3_1_1             | -0.10     | SWC at 0.10 m depth, station 3                                              |
+| SWC_3_2_1             | -0.25     | SWC at 0.25 m depth, station 3                                              |
+| SWC_3_3_1             | -0.50     | SWC at 0.50 m depth, station 3                                              |
+| SWC_3_4_1             | -1.00     | SWC at 1.00 m depth, station 3                                              |
+| SWC_PI_F_1            | -0.10     | Daily average SWC at 0.10 m across 3 stations (gap-filled, PI provided)     |
+| SWC_PI_F_2            | -0.25     | Daily average SWC at 0.25 m across 3 stations (gap-filled, PI provided)     |
+| SWC_PI_F_3            | -0.50     | Daily average SWC at 0.50 m across 3 stations (gap-filled, PI provided)     |
+| SWC_PI_F_4            | -1.00     | Daily average SWC at 1.00 m across 3 stations (gap-filled, PI provided)     |
+
+**Variable Naming Conventions (AmeriFlux):**
+- `_PI`: Provided by PI/tower team (QA/QC filtered or gap-filled by tower team)
+- `_F`: Gap-filled variable
+- SWC is reported in volumetric percent (%)
+
+For more details, see [AmeriFlux Measurement Heights](https://ameriflux.lbl.gov/data/measurement-height/) and [Variable Qualifiers](https://ameriflux.lbl.gov/data/data-variables/).
+
 ## Citation
 This dataset is cited from [Zenodo](https://doi.org/10.5281/zenodo.13343700), [Agricultural and Forest Meteorology (2015)](https://doi.org/10.1016/j.agrformet.2015.03.016), [Agricultural and Forest Meteorology (2012)](https://doi.org/10.1016/j.agrformet.2012.05.021), [Agricultural and Forest Meteorology (2005)](https://doi.org/10.1016/j.agrformet.2005.05.003), and [Agricultural Water Management (2024)](https://doi.org/10.1016/j.agwat.2024.108999).
